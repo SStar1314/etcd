@@ -1,3 +1,5 @@
+# etcd 源代码有点难懂，oh no!!!
+
 # etcd
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/coreos/etcd)](https://goreportcard.com/report/github.com/coreos/etcd)
